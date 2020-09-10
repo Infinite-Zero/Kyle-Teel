@@ -1,4 +1,4 @@
-# Kyle-Teel
+# Kyle Teel
 
 ### added to a text file (counted lines), blank lines removed, comment only lines counted (manually), '}' only lines counted (with word crtl + f)
 
